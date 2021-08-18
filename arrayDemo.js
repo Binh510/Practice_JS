@@ -60,4 +60,3 @@ for (var i = indexMax; i < a.length; i++) {
 }
 console.log('So lon nhat trong mang la: ', a[indexMax]);
 console.log('Chi so cua so lon nhat la', indexList);
-
