@@ -10,7 +10,7 @@
         add i in listOfIndex.
  */
 
-var a = [16, 4, 16, 5, 12, 5, 9, -3, 15, 16, 8];
+var a = [16, 4, 16, 5, 12, 6, 5, 9, -3, 15, 16, 8];
 var indexOfMaxNegative = -1;
 for (var i = 0; i < a.length; i++) {
     if (a[i] < 0) {
